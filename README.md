@@ -4,7 +4,7 @@
 
 ## Field types
 
-´´
+```
 Text': {
                         'View': RenderFieldValueDefault,
                         'DisplayForm': SPField_FormDisplay_Default,
@@ -113,4 +113,4 @@ Text': {
                         'EditForm': SPFieldAttachments_Default,
                         'NewForm': SPFieldAttachments_Default
                     }
-´´
+```
